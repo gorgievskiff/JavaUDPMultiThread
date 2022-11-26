@@ -1,0 +1,6 @@
+On client side
+1.First login using 'login your name'
+2.If you want to see all clients just type 'clients'
+3.If you want to sent a message to someone use 'sent#message#clientname"
+On server side
+1. just start server and he will be opened for new client connections
